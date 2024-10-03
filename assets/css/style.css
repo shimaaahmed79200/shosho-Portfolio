@@ -512,7 +512,10 @@ section {
 .portfolio .portfolio-item {
   margin-bottom: 30px;
 }
-
+/* .grid{
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+} */
 .portfolio #portfolio-flters {
   padding: 0;
   margin: 0 auto 35px auto;
